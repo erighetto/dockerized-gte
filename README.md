@@ -1,6 +1,6 @@
 # dockerized-gte
 
-A simple Docker version of https://github.com/rietta/git_time_extractor
+A simple Docker version of https://rubygems.org/gems/git_time_extractor
 
 ## How to use
 
